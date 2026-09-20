@@ -1,16 +1,10 @@
 # lord_jesus_christ_fellowship
 
-A new Flutter project.
+# Head Stone Revelation APP
 
-## Getting Started
+![Logo](assets/logo.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Lord Jesus Christ Fellowship is a Christian app designed to help believers stay connected with God through sermons, video messages, Bible teachings, message notes, and saved content. Users can explore messages by series and year, watch sermons, view speakers and message details, save messages for later, and access accompanying PDF notes—all in a clean, modern, and easy-to-use experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
