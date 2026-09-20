@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704301189018",
+    "project_id": "head-stone-revelation",
+    "storage_bucket": "head-stone-revelation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704301189018:android:c487acb40f83703afd5c23",
+        "android_client_info": {
+          "package_name": "com.headstone.lord_jesus_christ_fellowship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTwJtRMZJ3-BVG7wGKlW8SKTtr7Wr0aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
